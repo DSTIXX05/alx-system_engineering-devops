@@ -1,1 +1,1 @@
-this project is fullt on God
+0x02-shell_redirections
